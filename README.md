@@ -52,10 +52,7 @@ Se você gosta de desafios e soluções eficientes, vamos conversar!
 ---
 
 ### 🔗 Conecte-se comigo
-- [LinkedIn](https://www.linkedin.com/in/vitucp)
-- [Meu site](https://seusite.com)
-- [Twitter](https://twitter.com/vitucp)
-- [Email](mailto:vitucp@email.com)
+- [Email](mailto:vithkj1@email.com)
 
 ---
 
@@ -63,14 +60,12 @@ Se você gosta de desafios e soluções eficientes, vamos conversar!
 
 Aqui estão alguns dos meus projetos mais populares:
 
-- [**Nome do Projeto**](link-do-projeto): Descrição breve do projeto. 💡
-- [**Outro Projeto**](link-do-projeto): Descrição breve do projeto. 🚀
-- [**Mais Projetos**](https://github.com/vitucp?tab=repositories): Explore mais!
+- [**meus projetos**](https://github.com/vitucp?tab=repositories): Explore mais!
 
 ---
 
 ### 📫 Como me Contatar
 Se você tem algum projeto interessante ou uma ideia para discutir, não hesite em me enviar uma mensagem:
 
-- Email: [vitucp@email.com](mailto:vitucp@email.com)
-- LinkedIn: [@vitucp](https://www.linkedin.com/in/vitucp)
+- Email: [vithkj1@email.com](mailto:vithkj1@email.com)
+
